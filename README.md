@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jerome-nelson)](https://github.com/jerome-nelson/github-contribution-stats/)
+
 <!--
 **jerome-nelson/jerome-nelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
