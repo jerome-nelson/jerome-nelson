@@ -5,7 +5,7 @@
 
 ###  Some things you might want to know...
 
-1. I work for [Fresha](https://www.fresha.com/) as a **frontend engineer**.
+1. I worked for [Fresha](https://www.fresha.com/) as a **frontend engineer**.
 2. I have a ton of experience with JS frontend frameworks and CMSes like Umbraco and Wordpress
 3. Currently refining my technical skills.
 
@@ -13,4 +13,4 @@
 [![Solid Skills](https://skillicons.dev/icons?i=ts,nodejs,php,react,docker,git)](https://skillicons.dev)
 
 #### I can also work with...
-[![Older skills](https://skillicons.dev/icons?i=angular,vue,wordpress,,azure,aws,,py,,mongodb,mysql,,nginx,aws,redis,sass)](https://skillicons.dev)
+[![Older skills](https://skillicons.dev/icons?i=vue,wordpress,,aws,,py,,mongodb,mysql,,nginx,aws,redis,sass)](https://skillicons.dev)
