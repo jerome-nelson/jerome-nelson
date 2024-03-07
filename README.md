@@ -1,5 +1,5 @@
 ### Sup! The name's Jerome
-...a front-end developer in Poland. I know technology or two and describe myself as "fullstack-able". Cautiously pragmatic when developing (but won't cut corners all the time).
+...a front-end developer in Poland. I know technology or two and describe myself as "fullstack". Cautiously pragmatic when developing (but won't cut corners all the time).
 
 [![wakatime](https://wakatime.com/badge/user/46501769-2303-4721-a5f6-fcb7499511d2.svg)](https://wakatime.com/@46501769-2303-4721-a5f6-fcb7499511d2)
 
