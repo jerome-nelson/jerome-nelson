@@ -6,7 +6,9 @@
 ###  Some things you might want to know...
 
 1.I currently work for [ActiveCampaign](https://www.activecampaign.com/) as a **frontend engineer**
+
 2. I have a ton of experience with JS frontend frameworks and CMSes like Umbraco and Wordpress
+
 3. Currently refining my technical skills.
 
 #### I swear by...
